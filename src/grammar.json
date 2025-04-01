@@ -11707,6 +11707,10 @@
         },
         {
           "type": "STRING",
+          "value": "final"
+        },
+        {
+          "type": "STRING",
           "value": "readonly"
         },
         {
